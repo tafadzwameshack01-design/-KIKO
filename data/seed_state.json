@@ -1,0 +1,23 @@
+{
+  "ensemble_weights": {
+    "dixon_coles": 0.40,
+    "xgboost": 0.25,
+    "elo_bayesian": 0.20,
+    "market_implied": 0.15
+  },
+  "phi_meta_HT": 0.0,
+  "regime": "A",
+  "learning_rate": 0.025,
+  "bankroll": 10000.0,
+  "daily_utilization": 0.0,
+  "meta_improvement_applied": 0,
+  "clv_history": [],
+  "bet_log": [],
+  "calibration_observations": [],
+  "iteration_log": [],
+  "meta_improvement_log": [],
+  "regime_history": [],
+  "performance_history": [],
+  "team_elo": {},
+  "clv_heatmap": {}
+}
