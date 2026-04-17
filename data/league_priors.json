@@ -1,0 +1,72 @@
+{
+  "EPL": {
+    "mean_ht_goals": 1.08,
+    "sigma_ht_goals": 0.87,
+    "mu_ht_intercept": -0.55,
+    "gamma_home_mean": 0.11,
+    "gamma_home_sigma": 0.07,
+    "sigma_attack": 0.45,
+    "sigma_defense": 0.45,
+    "xi_ht_alpha": 3.5,
+    "xi_ht_beta": 0.015,
+    "rho_range": [-0.18, -0.01],
+    "league_id": "PL",
+    "fd_competition": "PL"
+  },
+  "La Liga": {
+    "mean_ht_goals": 0.94,
+    "sigma_ht_goals": 0.81,
+    "mu_ht_intercept": -0.62,
+    "gamma_home_mean": 0.10,
+    "gamma_home_sigma": 0.07,
+    "sigma_attack": 0.45,
+    "sigma_defense": 0.45,
+    "xi_ht_alpha": 3.5,
+    "xi_ht_beta": 0.015,
+    "rho_range": [-0.18, -0.01],
+    "league_id": "PD",
+    "fd_competition": "PD"
+  },
+  "Bundesliga": {
+    "mean_ht_goals": 1.21,
+    "sigma_ht_goals": 0.94,
+    "mu_ht_intercept": -0.46,
+    "gamma_home_mean": 0.13,
+    "gamma_home_sigma": 0.07,
+    "sigma_attack": 0.45,
+    "sigma_defense": 0.45,
+    "xi_ht_alpha": 3.5,
+    "xi_ht_beta": 0.015,
+    "rho_range": [-0.18, -0.01],
+    "league_id": "BL1",
+    "fd_competition": "BL1"
+  },
+  "Serie A": {
+    "mean_ht_goals": 0.89,
+    "sigma_ht_goals": 0.79,
+    "mu_ht_intercept": -0.67,
+    "gamma_home_mean": 0.09,
+    "gamma_home_sigma": 0.07,
+    "sigma_attack": 0.45,
+    "sigma_defense": 0.45,
+    "xi_ht_alpha": 3.5,
+    "xi_ht_beta": 0.015,
+    "rho_range": [-0.18, -0.01],
+    "league_id": "SA",
+    "fd_competition": "SA"
+  },
+  "Ligue 1": {
+    "mean_ht_goals": 1.02,
+    "sigma_ht_goals": 0.85,
+    "mu_ht_intercept": -0.57,
+    "gamma_home_mean": 0.11,
+    "gamma_home_sigma": 0.07,
+    "sigma_attack": 0.45,
+    "sigma_defense": 0.45,
+    "xi_ht_alpha": 3.5,
+    "xi_ht_beta": 0.015,
+    "rho_range": [-0.18, -0.01],
+    "league_id": "FL1",
+    "fd_competition": "FL1"
+  }
+}
